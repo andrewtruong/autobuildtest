@@ -1,0 +1,1 @@
+docker build -t itsandrewtruong/jax:latest -f Dockerfile .
